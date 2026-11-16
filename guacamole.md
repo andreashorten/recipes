@@ -4,3 +4,4 @@
 * lime (9.90)
 * salt (190)
 ## Instructions
+* put one avocado into a bowl
